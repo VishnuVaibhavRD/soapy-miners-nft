@@ -1,0 +1,16 @@
+{
+  "network": "cyprus1",
+  "chainId": 9000,
+  "contract": "SoapyMiners",
+  "address": "0x0078aE5756DB0e936D73C38805ce031968934426",
+  "owner": "0x006dc70431416e4395E2C098D50108b093672B93",
+  "royaltyReceiver": "0x006dc70431416e4395E2C098D50108b093672B93",
+  "maxSupply": 256,
+  "publicAllocation": 235,
+  "reservedAllocation": 21,
+  "initialMintPrice": "50 QUAI",
+  "royalty": "3%",
+  "deploymentTransaction": "0x001500077b0c32fff92c3ddefabfd405c7ae6aa716298ec9224f75cf19348e8b",
+  "metadataIpfsHash": "QmcPZyrNZDM3JkmcL9gdsrrH6zWxkR4x34Qzt4CYQe5TNy",
+  "deployedAt": "2026-07-27T07:04:11.847Z"
+}

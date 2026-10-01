@@ -1,0 +1,16 @@
+{
+  "network": "orchard",
+  "chainId": 15000,
+  "contract": "SoapyMiners",
+  "address": "0x0076B6072257590A6EC6833aaE5fA3F6Fd6b46FE",
+  "owner": "0x006dc70431416e4395E2C098D50108b093672B93",
+  "royaltyReceiver": "0x006dc70431416e4395E2C098D50108b093672B93",
+  "maxSupply": 256,
+  "publicAllocation": 235,
+  "reservedAllocation": 21,
+  "initialMintPrice": "50 QUAI",
+  "royalty": "3%",
+  "deploymentTransaction": "0x003f0020232bea9cbe2128a64ec3bddfbd98418c2136f74ac60a40d32c02da6a",
+  "metadataIpfsHash": "QmT9vZRDgCWNTn6eLtViN6RNxjhfbSeZR1HQqmMqN6bMpk",
+  "deployedAt": "2026-07-27T10:02:13.702Z"
+}

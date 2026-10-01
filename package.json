@@ -1,0 +1,29 @@
+{
+  "name": "soapy-miners",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "prepare-cursors": "node scripts/prepare-cursors.js",
+    "prepare-miners": "node scripts/prepare-miners.js",
+    "contracts:compile": "npm run compile --prefix blockchain",
+    "contracts:test": "npm run test --prefix blockchain",
+    "contracts:deploy": "npm run deploy:orchard --prefix blockchain"
+  },
+  "dependencies": {
+    "next": "16.2.12",
+    "quais": "^1.0.0-alpha.55",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.12",
+    "sharp": "^0.35.3",
+    "tailwindcss": "^4"
+  }
+}
